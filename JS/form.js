@@ -1,4 +1,4 @@
-
+//sending emails
 function SEND(){
     var frm = document.getElementsByName('Contact_form')[0];
     frm.disabled
